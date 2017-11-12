@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/vnuthalapati/Desktop/ionic2/awesome-places/platforms/android/CordovaLib/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/vnuthalapati/Desktop/ionic2/awesome-places/platforms/android/CordovaLib/src/debug/jniLibs"/></dataSet></merger>
