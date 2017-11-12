@@ -16,6 +16,7 @@ $ ionic start myBlank blank
 ```
 
 Then, to run it, cd into `myBlank` and run:
+
 For IOS
 ```bash
 $ ionic cordova platform add ios
@@ -29,5 +30,4 @@ $ ionic cordova run android
 $ ionic cordova run android -device
 ```
 
-Substitute ios for android if not on a Mac.
 
